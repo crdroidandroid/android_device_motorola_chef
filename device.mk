@@ -21,7 +21,8 @@ $(call inherit-product, vendor/motorola/chef/chef-vendor.mk)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    NoCutoutOverlay \
+    NotchKiller
 
 # A/B updater
 AB_OTA_POSTINSTALL_CONFIG += \
