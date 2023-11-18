@@ -1,5 +1,5 @@
 runtime_resource_overlay {
-    name: "NotchBarKiller",
-    theme: "NotchBarKiller",
+    name: "NotchKiller",
+    theme: "NotchKiller",
     product_specific: true,
 }

@@ -23,7 +23,7 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 
 PRODUCT_PACKAGES += \
     NoCutoutOverlay \
-    NotchBarKiller
+    NotchKiller
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
